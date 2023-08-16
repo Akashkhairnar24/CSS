@@ -1,0 +1,43 @@
+
+#first{
+    background-color: grey;
+    padding:20px;
+    border: 1px solid black;
+    color:white ;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+    font-style: italic;
+}
+#akash{
+    text-align: center;
+    font-size: 70px;
+    font-style: italic;
+}
+#imp{
+    text-align: center;
+    font-size: 65px;
+    font-style: italic;
+}
+#second{
+    background-color:darkslategrey;
+    border: 1px solid black;
+    color: white;
+}
+#no{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+#DO{
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+}
+#ME{
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+
+}
